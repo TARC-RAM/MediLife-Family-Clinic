@@ -1,0 +1,10 @@
+INSERT INTO DOCTOR VALUES (1101, 'Dr. Ahmad', 'General');
+INSERT INTO DOCTOR VALUES (1102, 'Dr. Lim', 'Cardiology');
+INSERT INTO DOCTOR VALUES (1103, 'Dr. Wong', 'Dermatology');
+INSERT INTO DOCTOR VALUES (1104, 'Dr. Siti', 'Pediatrics');
+INSERT INTO DOCTOR VALUES (1105, 'Dr. Hafiz', 'Orthopedic');
+INSERT INTO DOCTOR VALUES (1106, 'Dr. Kumar', 'Neurology');
+INSERT INTO DOCTOR VALUES (1107, 'Dr. Aina', 'Gynecology');
+INSERT INTO DOCTOR VALUES (1108, 'Dr. John', 'ENT');
+INSERT INTO DOCTOR VALUES (1109, 'Dr. Sarah', 'Psychiatry');
+INSERT INTO DOCTOR VALUES (1110, 'Dr. Daniel', 'Ophthalmology');
